@@ -1,0 +1,22 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "C:\\Users\\Reisi\\esp\\v5.5.2\\esp-idf",
+  "idf.pythonInstallPath": "C:\\Users\\Reisi\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.openOcdConfigs": [
+    "interface/ftdi/esp32_devkitj_v1.cfg",
+    "target/esp32.cfg"
+  ],
+  "idf.portWin": "COM4",
+  "idf.toolsPathWin": "C:\\Users\\Reisi\\.espressif",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32"
+  },
+  "clangd.path": "C:\\Users\\Reisi\\.espressif\\tools\\esp-clang\\esp-19.1.2_20250312\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=c:\\Users\\Reisi\\tflite-microspeech\\build"
+  ],
+  "idf.flashType": "UART",
+  "idf.currentSetup": "C:\\Users\\Reisi\\esp\\v5.5.2\\esp-idf"
+}

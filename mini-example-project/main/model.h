@@ -1,0 +1,2 @@
+extern const unsigned char kws_tflite_int8_kws_model_int8_DSCNN_tflite[];
+extern const unsigned int kws_tflite_int8_kws_model_int8_DSCNN_tflite_len;
